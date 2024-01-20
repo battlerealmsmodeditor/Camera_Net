@@ -1,4 +1,4 @@
-Camera_NET
+Camera NET
 ----------
 A .NET library for camera easy use via DirectShow
 ----------
